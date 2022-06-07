@@ -15,7 +15,7 @@ desired_caps = {
                 "selenium_version": "4.0.0",
                 "chromeOptions" : {
                 "args" : ["incognito"]  # ChromeOption to start chrome in incognito mode
-                
+                }
             },
             "browserName": "Chrome",
             "browserVersion": "98.0",
